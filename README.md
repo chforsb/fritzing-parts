@@ -5,5 +5,4 @@ This repo is a collection of parts for use with [Fritzing](http://fritzing.org/)
 ## Keyes Photo Resistor Sensor (KY-018)
 ![Keyes Photo Resistor Sensor](resources/keyes-photo-resistor.png)
 ## Keyes Hall Sensor (KY-003)
-#### Breakout
 ![Keyes Hall Sensor](resources/keyes-hall.png)
